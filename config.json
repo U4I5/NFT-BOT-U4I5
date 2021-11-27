@@ -1,0 +1,19 @@
+{
+     "reddit": {
+         "username": "UrisNFT",
+         "password": "Nft@1213",
+         "client": {
+             "id": "8LV9ibaGS42_ExSrYzHyqg",
+             "secret": "ZtkArc0WwKNfNYfbvpBn2RcyWxzb8w"
+         }
+     },
+     "discord_webhook_url": "https://discordapp.com/api/webhooks/913860741667364894/vR78lpqpIlUwb-OuURn5RQiyd3B5DBoySqBOUV60Cs63DDnnekmVrzxo2MkobfYr1F1L",
+     "metakey": "0x9fae396bbf735231b4b8ff6ba756d0ba4353f66c",
+     "replies": [
+         "Good Luck !",
+         "Let's go !",
+         " I hope I get some !",
+         "i think i could win.",
+         "Pray for win..."
+     ]
+}
